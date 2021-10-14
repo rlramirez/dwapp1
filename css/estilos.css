@@ -10,3 +10,12 @@ header.cabeceraPrincipal, nav, footer{
 	width: 90%;
 	margin: 0 auto;
 }
+header.cabeceraPrincipal h1{
+	padding: 1em;
+	color: #fff;
+}
+nav a{
+	color: #fff;
+	text-decoration: none;
+	padding: 0.5em 1em;
+}
